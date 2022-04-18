@@ -12,3 +12,6 @@ Technology Used:
 
 R Studio
 Tableau
+
+
+View all my Tableau-Projects Dashboards on my Tableau Public Profile link - https://public.tableau.com/app/profile/parimal.dhasmana
